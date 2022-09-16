@@ -1,0 +1,32 @@
+{
+    "name": "BNB Smart Chain",
+    "website": "https://twitter.com/delete_token",
+    "description": "An expirmental meme token built on BSC. Locked liquidity. Fully in communities control.",
+    "explorer": "https://bscscan.com/token/0x1d8d93260d69a0d4c2006e630e9027ec44c8b7bb#tokenTrade",
+    "research": "https://research.binance.com/en/projects/bnb",
+    "symbol": "BNB",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/binance-chain/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/delete_token"
+        },
+        {
+            "name": "reddit",
+            "url": "NA"
+        },
+        {
+            "name": "whitepaper",
+            "url": "NA"
+        }
+    ]
+}
